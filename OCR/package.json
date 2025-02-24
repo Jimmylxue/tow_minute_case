@@ -1,0 +1,16 @@
+{
+  "name": "ocr-demo",
+  "version": "1.0.0",
+  "description": "OCR text recognition demo using tesseract.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tesseract.js": "^4.1.1"
+  },
+  "type": "module"
+}
